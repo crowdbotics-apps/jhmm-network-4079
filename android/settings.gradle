@@ -1,0 +1,3 @@
+rootProject.name = 'jhmm_network_4079'
+
+include ':app'
